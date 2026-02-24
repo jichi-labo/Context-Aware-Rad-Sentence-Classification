@@ -1,0 +1,8 @@
+# PyTorch (CUDA 12.1 — install via: --extra-index-url https://download.pytorch.org/whl/cu121)
+torch==2.5.1
+
+# HuggingFace Transformers
+transformers==4.48.3
+
+# OpenAI API (for report annotation)
+openai
